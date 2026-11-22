@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1699,
+    "category": "Electronics",
+    "emoji": "🎧",
+    "rating": 4.5,
+    "desc": "Bluetooth 5.0, 30-hour battery.",
+    "colour": "Bold Black & Silver."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 1299,
+    "category": "Electronics",
+    "emoji": "⌚",
+    "rating": 4.2,
+    "desc": "Heart-rate and sleep tracking.",
+    "colour": "Black"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 1899,
+    "category": "Fashion",
+    "emoji": "👟",
+    "rating": 4.4,
+    "desc": "Lightweight and breathable.",
+    "colour": "White & Serene Blue."
+  },
+  {
+    "id": 4,
+    "name": "Cotton T-Shirt",
+    "price": 499,
+    "category": "Fashion",
+    "emoji": "👕",
+    "rating": 4,
+    "desc": "100% cotton, regular fit.",
+    "colour": "Black, Pink, Blue, Purple, Orange."
+  },
+  {
+    "id": 5,
+    "name": "Steel Water Bottle",
+    "price": 649,
+    "category": "Home",
+    "emoji": "🍶",
+    "rating": 4.6,
+    "desc": "Keeps drinks cold for 24 hours.",
+    "colour": "Silver"
+  },
+  {
+    "id": 6,
+    "name": "Desk Lamp",
+    "price": 899,
+    "category": "Home",
+    "emoji": "💡",
+    "rating": 4.1,
+    "desc": "Adjustable LED with 3 modes.",
+    "colour": "White"
+  },
+  {
+    "id": 7,
+    "name": "Backpack",
+    "price": 1299,
+    "category": "Fashion",
+    "emoji": "🎒",
+    "rating": 4.3,
+    "desc": "25L, laptop compartment.",
+    "colour": "Grey"
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker",
+    "price": 1599,
+    "category": "Electronics",
+    "emoji": "🔊",
+    "rating": 4.5,
+    "desc": "Waterproof, deep bass."
+  },
+  {
+    "id": 9,
+    "name": "saari",
+    "price": 1000,
+    "category": "Fashion",
+    "emoji": "🥻",
+    "rating": 4,
+    "desc": "Cotton, linen, chiffon, georgette, and organza"
+  },
+  {
+    "id": 10,
+    "name": "Lipstick",
+    "price": 490,
+    "category": "Cosmetics",
+    "emoji": "💄",
+    "rating": 4.2,
+    "desc": "Long-lasting, vibrant colors.",
+    "colour": "Red, Pink, Nude, Coral, Berry."
+  },
+  {
+    "id": 11,
+    "name": "Eyeliner",
+    "price": 350,
+    "category": "Cosmetics",
+    "emoji": "👁️",
+    "rating": 4.3,
+    "desc": "Smudge-proof, precise application.",
+    "colour": "Black, Brown."
+  },
+  {
+    "id": 12,
+    "name": "Face Cream",
+    "price": 799,
+    "category": "Cosmetics",
+    "emoji": "🧴",
+    "rating": 4.1,
+    "desc": "Moisturizing and nourishing.",
+    "colour": "White"
+  },
+  {
+    "id": 13,
+    "name": "Perfume",
+    "price": 1499,
+    "category": "Cosmetics",
+    "emoji": "🌸",
+    "rating": 4.4,
+    "desc": "Long-lasting fragrance.",
+    "colour": "Transparent"
+  },
+  {
+    "id": 14,
+    "name": "Nail Polish",
+    "price": 299,
+    "category": "Cosmetics",
+    "emoji": "💅",
+    "rating": 4.2,
+    "desc": "Quick-drying, chip-resistant.",
+    "colour": "Red, Pink, Nude, Coral, Berry."
+  },
+  {
+    "id": 15,
+    "name": "Makeup Brush Set",
+    "price": 999,
+    "category": "Cosmetics",
+    "emoji": "🖌️",
+    "rating": 4.3,
+    "desc": "Soft bristles, versatile use.",
+    "colour": "Black, Silver."
+  },
+  {
+    "id": 16,
+    "name": "Eyeshadow Palette",
+    "price": 1299,
+    "category": "Cosmetics",
+    "emoji": "🎨",
+    "rating": 4.5,
+    "desc": "Highly pigmented, blendable.",
+    "colour": "Various shades."
+  },
+  {
+    "id": 17,
+    "name": "Notebook",
+    "price": 199,
+    "category": "Stationery",
+    "emoji": "📓",
+    "rating": 4.2,
+    "desc": "Perfect for jotting down ideas.",
+    "colour": "Various."
+  },
+  {
+    "id": 18,
+    "name": "Ballpoint Pen",
+    "price": 49,
+    "category": "Stationery",
+    "emoji": "🖊️",
+    "rating": 4.1,
+    "desc": "Smooth writing experience.",
+    "colour": "Blue, Black, Red."
+  },
+  {
+    "id": 19,
+    "name": "Sticky Notes",
+    "price": 99,
+    "category": "Stationery",
+    "emoji": "📝",
+    "rating": 4.3,
+    "desc": "Great for reminders and notes.",
+    "colour": "Yellow, Pink, Green."
+  },
+  {
+    "id": 20,
+    "name": "Highlighter Set",
+    "price": 149,
+    "category": "Stationery",
+    "emoji": "🖍️",
+    "rating": 4.4,
+    "desc": "Bright and vibrant colors.",
+    "colour": "Yellow, Pink, Green, Blue."
+  },
+  {
+    "id": 21,
+    "name": "Desk Organizer",
+    "price": 499,
+    "category": "Stationery",
+    "emoji": "📂",
+    "rating": 4.2,
+    "desc": "Keep your desk tidy and organized.",
+    "colour": "Black, White, Grey."
+  }
+]
